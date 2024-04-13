@@ -1,0 +1,6 @@
+[submodule "front-end-auth"]
+	path = front-end-auth
+	url = https://github.com/vini-fumagalli/front-end-auth.git
+[submodule "back-end-auth"]
+	path = back-end-auth
+	url = https://github.com/vini-fumagalli/back-end-auth.git
