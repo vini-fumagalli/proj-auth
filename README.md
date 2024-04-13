@@ -25,11 +25,6 @@ Projeto de uma SPA (Single Page Application) Angular que consome uma API de ASP.
 - Composição de um Token JWT 
 - View Models 
 
-- É necessário ter o .NET 7.0 instalado ➡️ https://dotnet.microsoft.com/pt-br/download/dotnet/7.0
-- É necessário ter o Node instalado ➡️ https://nodejs.org/en/download/current
-- É necessário o uso de SQL Server para o banco de dados https://www.microsoft.com/pt-br/sql-server/sql-server-downloads
-- Recomendo o uso do Visual Studio Code para rodar a aplicação
-
 ## 🙋 Autor
 
 - Vinícius Fumagalli
