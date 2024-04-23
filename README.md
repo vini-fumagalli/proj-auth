@@ -23,7 +23,9 @@ Projeto de uma SPA (Single Page Application) Angular que consome uma API de ASP.
 - ASP.NET Identity
 - Autenticação/Autorização com JWT (JSON Web Token)
 - Composição de um Token JWT 
-- View Models 
+- View Models
+- Auth Guard
+- HTTP Interceptor
 
 ## 🙋 Autor
 
